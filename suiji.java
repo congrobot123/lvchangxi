@@ -30,6 +30,7 @@ public class suiji
 			sum=sum +(int)temp;
 		}
 				
+				
 				int average=sum/n;
 
 		System.out.println("求得的总数是" + sum);
